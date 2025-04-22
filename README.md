@@ -1,51 +1,27 @@
-<h1 align="center"><b>¡Hello World! I'm Valeria Raizman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-————————————————————————————————————————————————————————————————————————————————————————————————————
+<br><h1 align="center"><b>¡Hello World! I'm Valeria Raizman</b><br><br>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/24711/screenshots/2426225/open-uri20151228-3-6mt2j">
-  
+<div align="center">
+  <a href="https://open.spotify.com/intl-es/track/0cv1Mnb47oMvjVKMc2cyZw?si=34cf779013c54214">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify">
+  </a>
+</div>
 
-</a>
-
-# 💻 Tech Stack 
-<div style="display: flex; flex-direction: column;">
- 
-  <p align="left">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<div align="center">
+  <p>
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
+    <img src="https://img.shields.io/badge/Tool-Type%3A%20Pentesting-black?style=for-the-badge&logo=protonvpn&logoColor=white">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/For-Ethical%20Use%20Only-yellow?style=for-the-badge&logo=ghostery&logoColor=black">
+    <img src="https://img.shields.io/badge/Use-Educational-blueviolet?logo=book&logoColor=white">
   </p>
 </div>
-
-<ul>
-  <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/valeriaraizman/">Resume</a></li>
-  <li>📫 How to reach me: <i>valeriaraizzman@gmail.com</i></li>
-</ul>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=valeria&theme=dracula&hide_border=false)<br/>
-
+<!-- GIF a pantalla completa -->
+<div align="center">
+  <img src="https://github.com/ValeriaRaiz/valeriaRaizzman/blob/main/original-6324df23375f93646b5c1504758f5572.gif?raw=true" width="100%" height="auto">
 </div>
-
-<div id="user-content-toc">
-  <ul align="center">
-  </ul>
-</div>
-——————————————————————————————————————————————————————————————————————————————————————————————
-
-
-                                Feel free to explore more of my works in my repositories! 🌟 
-
-![Web-Design](https://github.com/valeriaRaizzman/valeriaRaizzman/assets/132442225/577155e7-b18f-4c2c-b446-313fe7c7700d)
-
-[Slider.webm](https://github.com/valeriaRaizzman/valeriaRaizzman/assets/132442225/8b48846f-d093-42f5-8c41-fc3d25c948a0)
-
-
-
 
 
 

@@ -1,4 +1,4 @@
-<br><h1 align="center"><b>¡Hello World! I'm Valeria Raizman!</b><br><br>
+<br><h1 align="center"><b>¡Hello World! I'm Valeria Raizman</b><br><br>
 
 <div align="center">
   <a href="https://open.spotify.com/intl-es/track/0cv1Mnb47oMvjVKMc2cyZw?si=34cf779013c54214">
